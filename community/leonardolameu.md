@@ -13,7 +13,7 @@
 
 * JavaScript e HTML: Desenvolva um jogo e pratique lógica de programação (Novembro/2021)
 
-**Código Kid (até Janeiro de 2024)**
+**Código Kid (Março de 2023 até Janeiro de 2024)**
 
 * Desenvolvimento Web – CSS
 
